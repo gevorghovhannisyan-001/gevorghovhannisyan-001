@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gevorghovhannisyan-001
-- 👀 I’m interested in web development and in finances.
+- 👀 I’m interested in web development and engineering.
 - 🌱 I’m currently learning web dev.
 - 💞️ I’m looking to collaborate with clients.
 - 📫 Here's my gmail to contact with me hovhannigevorg@gmail.com
