@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @gevorghovhannisyan-001
-- 👀 I’m interested in web development and engineering.
-- 🌱 I’m currently learning web dev.
-- 💞️ I’m looking to collaborate with clients.
+- 👋 Hi, I’m @gevorghovhannisyan-001 a University Student from NPUA(Polytechnic)
+- 👀 I’m interested in programming and engineering.
+- 🌱 I’m currently learning c++ programming language and also data structures & algorithms.
+- 💞️ I’m looking for internships and job opportunities.
 - 📫 Here's my gmail to contact with me hovhannigevorg@gmail.com
 
 <!---
